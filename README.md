@@ -1,2 +1,2 @@
-# florig.github.io
+# florig.org
 Landing page for florig.org
