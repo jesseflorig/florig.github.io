@@ -28,9 +28,9 @@ body {
   line-height: .8em;
   text-transform: uppercase;
   text-shadow:
-    .1em .1em 0 rgb(230,180,0),
-    .2em .2em 0 rgb(210,80,0),
-    .3em .3em 0 rgb(190,20,0);
+    .11em .1em 0 rgb(230,180,0),
+    .22em .2em 0 rgb(210,80,0),
+    .33em .3em 0 rgb(190,20,0);
 }
 
 .dot-org {
