@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Didact+Gothic');
+
+html,
+body {
+  height: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 4vw;
+  color: rgb(250,240,205);
+  background-color: rgb(100,20,0);
+}
+
+.florig,
+.dot-org {
+  margin: 0;
+}
+
+.florig {
+  font-family: 'Alfa Slab One', serif;
+  font-size: 4em;
+  letter-spacing: -.01em;
+  line-height: .8em;
+  text-transform: uppercase;
+  text-shadow:
+    .1em .1em 0 rgb(230,180,0),
+    .2em .2em 0 rgb(210,80,0),
+    .3em .3em 0 rgb(190,20,0);
+}
+
+.dot-org {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 1em;
+  letter-spacing: .05em;
+  text-align: right;
+}
