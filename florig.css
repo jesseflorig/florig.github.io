@@ -24,18 +24,29 @@ body {
 .florig {
   font-family: 'Alfa Slab One', serif;
   font-size: 4em;
-  letter-spacing: -.01em;
+  font-weight: normal;
+  letter-spacing: -.016em;
   line-height: .8em;
   text-transform: uppercase;
   text-shadow:
-    .11em .1em 0 rgb(230,180,0),
-    .22em .2em 0 rgb(210,80,0),
-    .33em .3em 0 rgb(190,20,0);
+    .01em .01em rgb(250,240,205),
+    .01em -.01em rgb(250,240,205),
+    -.01em .01em rgb(250,240,205),
+    -.01em -.01em rgb(250,240,205),
+    .12em .05em 0 rgb(230,180,0),
+    .24em .1em 0 rgb(210,80,0),
+    .36em .15em 0 rgb(190,20,0);
 }
 
 .dot-org {
   font-family: 'Didact Gothic', sans-serif;
   font-size: 1em;
+  font-weight: normal;
   letter-spacing: .05em;
   text-align: right;
+  text-shadow:
+    .01em .01em rgb(250,240,205),
+    .01em -.01em rgb(250,240,205),
+    -.01em .01em rgb(250,240,205),
+    -.01em -.01em rgb(250,240,205);
 }
